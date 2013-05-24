@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Pstl-2013
-Bundle-SymbolicName: pstl-2013; singleton:=true
+Bundle-Name: processAnalyzer
+Bundle-SymbolicName: processAnalyzer;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: com.upmc.pstl2013.views.Activator
 Require-Bundle: org.eclipse.core.runtime,
